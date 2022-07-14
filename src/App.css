@@ -1,0 +1,12 @@
+*{
+    text-decoration: none;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    width: 1080px;
+}
